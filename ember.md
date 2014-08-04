@@ -1,4 +1,4 @@
-# 1%Club Ember Style Guide() {
+# 1%Club Ember Style Guide
 
 *Our way of doing Ember*
 
